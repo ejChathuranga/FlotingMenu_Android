@@ -1,0 +1,2 @@
+# FlotingMenu_Android
+In this exampleල implement the android Floating Action Button (FAB) in android application using design support library. Floating Action Buttons (FAB) are used for a promoted action. Android floating action buttons (FAB) come in different two sizes, default and mini size. Default size of FAB is used for most of the cases and mini size is only used to create virtual continuity with other screen elements. Implementing FAB in app using design support library is not so difficult.
